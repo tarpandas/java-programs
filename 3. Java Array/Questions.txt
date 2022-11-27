@@ -1,0 +1,17 @@
+Program to find number of elements in an array
+Java Program to Calculate average of numbers using Array
+Java Program to Add the elements of an Array
+Java Program to reverse an array
+Java Program to sort an array in ascending order
+Java Program to convert char Array to String
+Java Program to Add Two Matrix Using Multi-dimensional Arrays
+Java Program to print the elements of an array present on odd Position
+Java Program to print the elements of an array present on even Position
+Java Program to copy all the elements of an array into another array
+Java Program to count the frequency of each element in an array
+Java Program to left rotate the elements of an array
+Java Program to right rotate the elements of an array
+Program to find duplicate elements of an array
+Program to find largest element of an array
+Program to find smallest number in an array
+Program to remove duplicate elements in an array

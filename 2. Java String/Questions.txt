@@ -1,0 +1,14 @@
+Java Program to Convert char to String and String to Char
+Java Program to find duplicate characters in a String
+Java Program to check Palindrome String using Stack, Queue, For and While loop
+Java Program to sort strings in alphabetical order
+Java Program to reverse words in a String
+Java Program to perform bubble sort on Strings
+Java program to find occurrence of a character in a String
+Java program to count vowels and consonants in a String
+Java Program to check two strings are anagram or not
+Java Program to divide a string in ‘n’ equal parts
+Java Program to find all subsets of a string
+Java Program to find longest substring without repeating characters
+Java Program to find longest repeating sequence in a string
+Java Program to remove all the white spaces from a string

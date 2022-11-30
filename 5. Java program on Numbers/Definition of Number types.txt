@@ -1,0 +1,24 @@
+Armstrong number - A number whose sum of digits to the power of the number of digits is equal to the number.
+Perfect square -  A number which is the multiplication of another smaller number with itself.
+Peterson Number - A number whose sum of factorial of digits is equal to the number.
+Sunny number - A number whose next number is a perfect square e.g. 15, since 16 = 4 * 4.
+Tech Number - A number is called Tech number, if it has an even number of digits, 
+		and when we split the number into two halves then the square of the sum of those halves is equal to the number itself.
+		e.g. 2025 = (20+25)^2 = 45 ^ 2 = 2025
+Emrip Number - A prime number is called Emirp number if we get a different prime number when its digits are reversed.
+Autobiographical number - An autobiographical number is a number N such that the first digit of N represents 
+		the count of zeroes in N, the second digit represents the count of ones in N, 
+		third digit represents the count of twos in N and so on. 
+		e.g. 1210 is an autobiographical number
+Spy Number - Sum of the digits of the number is equal to the product of the digits of the number.
+Neon number - A number is called Neon number when square of the sum of the digits of the number is equal to the number.
+		e.g. 81, 8+1 = 9, 9*9 = 81
+A number is called Automorphic, if the square of the number ends with the number itself.
+		e.g. 25 is an automorphic number because (25)2 = 625.
+BuzzNumber - A number which either ends with 7 or divisible by 7 is called Buzz number.
+Duck Number - A positive number that contains a zero digit is called Duck Number. 
+Fascinating Number - A number is called Fascinating number if it satisfies all the following conditions:
+		Number contains at least three digits.
+		When we multiply the number by 2 & 3 and concatenate the results with the original number then it contains all the digits from 1 to 9 exactly once. 
+Sphenic Number - A Sphenic number is a product of three distinct prime numbers. 
+		e.g. 66 is a sphenic number as it is a product of 2, 3, 11 and all these numbers are prime.

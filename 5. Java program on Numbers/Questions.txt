@@ -1,0 +1,33 @@
+Java Program to display first 100 prime numbers
+Java Program to display alternate prime numbers
+Java Program to display prime numbers between 1 and 100 or 1 and n
+Java program to break integer into digits
+Java Program to check Prime Number
+Java Program to check if a given number is perfect square
+Java Program to find square root of a number without sqrt method
+Java Program to print Armstrong numbers between a given range
+Java Program to Find Sum of Natural Numbers
+Java Program to check if a number is Positive or Negative
+Java Program to generate Random Number
+Java Program to check Armstrong number
+Java Program to find GCD of two numbers
+Java Program to find Largest of three numbers
+Java Program to swap two numbers using bitwise operator
+Java Program to find smallest of three numbers using ternary operator
+Java Program to find largest of three numbers using ternary operator
+Java Program to display even numbers from 1 to n or 1 to 100
+Java Program to display odd numbers from 1 to n or 1 to 100
+Java Program to Find average of 3 numbers
+Java Program to Find HCF and LCM of Two Numbers
+Peterson Number in Java
+Sunny Number in Java
+Tech Number in Java
+Emrip Number in Java
+Autobiographical Number in Java
+Spy number in Java
+Neon Number in Java
+Fascinating Number in Java
+Automorphic Number in Java
+Sphenic Number in Java
+Buzz Number in Java
+Duck Number in Java

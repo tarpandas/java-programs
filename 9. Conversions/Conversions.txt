@@ -1,0 +1,6 @@
+Octal to decimal - Integer.parseInt(octal_string, radix = 8); (converted dtype = integer)
+Decimal to octal - Integer.toOctalString(integer_number); (converted dtype = String)
+Hexadecimal to decimal - Integer.parseInt(hexadecimal_string, radix = 16); (converted dtype = integer)
+Decimal to hexadecimal - Integer.toHexString(integer_number); (converted dtype = String)
+Binary to decimal - Integer.parseInt(binary_string, radix = 2); (converted dtype = integer)
+Decimal to binary - Integer.toBinaryString(integer_number); (converted dtype = String)

@@ -1,0 +1,31 @@
+Java Octal to Decimal Conversion
+Java Decimal to Octal Conversion
+Java Hexadecimal to Decimal Conversion
+Java Decimal to Hexadecimal Conversion
+Java Binary to Octal Conversion
+Java Decimal to Binary Conversion
+Java Binary to Decimal Conversion
+Java int to char Conversion
+Java char to int Conversion
+Java char to String Conversion and vice versa
+Java long to int Conversion
+Java int to long Conversion
+Java int to double Conversion
+Java double to int Conversion
+Java Program to find ASCII value of a character
+Java String to int Conversion
+Java int to String Conversion
+Java String to double Conversion
+Java double to String Conversion
+Java String to long Conversion
+Java long to String Conversion
+Java String to boolean Conversion
+Java boolean to String Conversion
+Java String to float Conversion
+Java float to String Conversion
+Java String to Object Conversion
+Java Object to String Conversion
+Java Date to Timestamp Conversion
+Java Timestamp to Date Conversion
+Java String to Date Conversion
+Java Date to String Conversion

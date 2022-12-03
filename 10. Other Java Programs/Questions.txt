@@ -1,0 +1,8 @@
+Java Program to print Floyd’s triangle
+Java program to print Pascal triangle
+Java Program to display Fibonacci series using loops
+Java Program to find Factorial using loops
+Java Program to make a calculator using switch case
+Java Program to Calculate grades of Student
+Java Program to perform Arithmetic Operation using Method Overloading
+Java Program to find Area of Geometric figures using method overloading
